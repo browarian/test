@@ -6,6 +6,8 @@
 </head>
 <body>
 	
+<h1>Test index</h1>
+
 <nav>
 	<li><a href="#" class="l1"></a></li>
 	<li><a href="#" class="l2"></a></li>
